@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\bin\Debug\netcoreapp3.0\MovieList.exe
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\bin\Debug\netcoreapp3.0\MovieList.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\bin\Debug\netcoreapp3.0\MovieList.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\bin\Debug\netcoreapp3.0\MovieList.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\bin\Debug\netcoreapp3.0\MovieList.dll
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\bin\Debug\netcoreapp3.0\MovieList.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\obj\Debug\netcoreapp3.0\MovieList.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\obj\Debug\netcoreapp3.0\MovieList.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\obj\Debug\netcoreapp3.0\MovieList.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\obj\Debug\netcoreapp3.0\MovieList.dll
+C:\Users\jbenk\Desktop\bootcamp2019\MovieList\obj\Debug\netcoreapp3.0\MovieList.pdb
